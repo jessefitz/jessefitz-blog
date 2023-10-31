@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Better Now Than Never
-
 _Musings and Miscellany_
 
 > This space is a work in progress. It contains some explorations of curiosity and creativity that extend beyond my professional life. Please enjoy, and ping me on LinkedIn if you have questions or comments.
